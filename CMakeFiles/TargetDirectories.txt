@@ -1,0 +1,3 @@
+/Users/raresmatei/Documents/an4/paoo/folder1/tema3/CMakeFiles/tema3.dir
+/Users/raresmatei/Documents/an4/paoo/folder1/tema3/CMakeFiles/edit_cache.dir
+/Users/raresmatei/Documents/an4/paoo/folder1/tema3/CMakeFiles/rebuild_cache.dir
